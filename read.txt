@@ -1,0 +1,9 @@
+# Saudi_Clinic
+Android application to record daily data for dental clinic (Flutter)
+------------------------------------------------
+تطبيق أندرويد لتسجيل البيانات اليومية لعيادة الأسنان
+أستخدام النطبيق للحتفاظ الكشوفات اليومية عن طريق تسجيل البيانات الخاصة بهم أمكانية تعديل البيانات وحذف كشف
+-----
+Tools
+1. dart
+2. Flutter Framwork (Flutter basic , sqflite )
